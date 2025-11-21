@@ -101,3 +101,6 @@ Run the following command to run a standalone file:
 ```bash
 pnpm tsc && node dist/main.js
 ```
+#Install pnpm once globally
+npm install -g pnpm
+
